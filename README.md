@@ -1,2 +1,3 @@
 # Intune
-collection of Intune scripts and links
+
+This repo is a collection of Intune scripts and links
